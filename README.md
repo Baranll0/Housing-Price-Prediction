@@ -74,7 +74,7 @@ Implemented a range of regression models to predict housing prices:
 - Compared the performance of various models using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) score.
 
 ## Dependencies
-- Python 3.x
+- Python 3.11.6
 - Jupyter Notebook (for running the code)
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow (for MLP)
 
